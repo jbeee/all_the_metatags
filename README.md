@@ -37,9 +37,11 @@
         <meta property="og:audio:artist" content="Artist">
         <meta property="og:audio:album" content="Album Name">
         <meta property="og:audio:type" content="application/mp3">
+        
 <!----- facebook!?!? srsly? ---->
 
 ####<!----- GOOGLE META DATA ---->
+
 <!----- (the facebook basics) google uses facebooks open graph, but doesnt care what your favorite color is or what you had for breakfast last tuesday ...probably because they already know.
 It is google afterall. ---->
 
@@ -78,7 +80,8 @@ It is google afterall. ---->
         <link rel="publisher" href=""/>
 
 
-####<!----- TWITTER et AL. ?? ---->
+####<!----- TWITTER et AL. ---->
+
 <!----- I'm pretty sure twitter has their own ---->
 <!----- Yahoo too! Cause you know... Yahoo would.  ---->
 
