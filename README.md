@@ -51,11 +51,9 @@
     	<meta property="og:latitude" content="Latitude">
         <meta property="og:longitude" content="Longitude">
 
->> (the facebook basics) 
+>> **( the facebook basics )** 
 
->> google uses facebooks open graph, but doesnt care what your favorite color is or what you had for breakfast last tuesday 
-
->> ...probably because they already know... It is google after all. 
+>> google uses facebooks open graph, but doesnt care what your favorite color is or what you had for breakfast last tuesday ...probably because they already know... It is google after all. 
 
 
 ####<!----- WINDOWS META DATA ---->
@@ -89,7 +87,7 @@
 >> Yahoo too! Cause you know... Yahoo would.
 
 
-<title>ITSA WEBBBBSYTE</title>
+<title>ITSA WEBBBBSYTE (TITLE)</title>
 
 #TO DO
 ==========
