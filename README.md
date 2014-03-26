@@ -1,8 +1,6 @@
 #all_the_metatags
-================
-
-- Every Single meta tag for ifacegoogtwittbinghoo.com that I stumble across 
-- Because there are really WAY too many to remember
+>>Every Single meta tag for ifacegoogtwittbinghoo.com that I stumble across 
+>>Because there are really WAY too many to remember
 
 
      
@@ -38,13 +36,9 @@
         <meta property="og:audio:album" content="Album Name">
         <meta property="og:audio:type" content="application/mp3">
         
-<!----- facebook!?!? srsly? ---->
+>> facebook!?!? srsly? AHHH! 
 
 ####<!----- GOOGLE META DATA ---->
-
-<!----- (the facebook basics) google uses facebooks open graph, but doesnt care what your favorite color is or what you had for breakfast last tuesday ...probably because they already know.
-It is google afterall. ---->
-
     	<meta property="og:locale" content="en_US" />
     	<meta property="og:type" content="app" />   ////ADD ALL TYPES
     	<meta property="og:title" content="TITLE" />
@@ -54,6 +48,11 @@ It is google afterall. ---->
     	<meta property="og:image" content=""/>
     	<meta property="og:latitude" content="Latitude">
         <meta property="og:longitude" content="Longitude">
+
+>> (the facebook basics) 
+>> google uses facebooks open graph, but doesnt care what your favorite color is or what you had for breakfast last tuesday 
+>> ...probably because they already know.
+>> It is google afterall. 
 
 
 ####<!----- WINDOWS META DATA ---->
@@ -68,7 +67,7 @@ It is google afterall. ---->
         <meta name="msapplication-wide310x150logo" content=""/>
         <meta name="msapplication-square310x310logo" content=""/>
 
- <!----- 5 pngs, 1 ico, tooltip? ---->
+>> 5 pngs, 1 ico, tooltip?
 
 
 ####<!----- GENERAL META DATA ---->
@@ -82,8 +81,8 @@ It is google afterall. ---->
 
 ####<!----- TWITTER et AL. ---->
 
-<!----- I'm pretty sure twitter has their own ---->
-<!----- Yahoo too! Cause you know... Yahoo would.  ---->
+>> * I'm pretty sure twitter has their own *
+>> *  Yahoo too! Cause you know... Yahoo would.  *
 
 
 <title>ITSA WEBBBBSYTE</title>
