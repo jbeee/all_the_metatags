@@ -1,5 +1,7 @@
 #all_the_metatags
->>Every Single meta tag for ifacegoogtwittbinghoo.com that I stumble across 
+
+>>Every Single meta tag for *ifacegoogtwittbinghoo8.com* that I stumble across
+
 >>Because there are really WAY too many to remember
 
 
@@ -50,9 +52,10 @@
         <meta property="og:longitude" content="Longitude">
 
 >> (the facebook basics) 
+
 >> google uses facebooks open graph, but doesnt care what your favorite color is or what you had for breakfast last tuesday 
->> ...probably because they already know.
->> It is google afterall. 
+
+>> ...probably because they already know... It is google after all. 
 
 
 ####<!----- WINDOWS META DATA ---->
@@ -81,8 +84,9 @@
 
 ####<!----- TWITTER et AL. ---->
 
->> * I'm pretty sure twitter has their own *
->> *  Yahoo too! Cause you know... Yahoo would.  *
+>> I'm pretty sure twitter has their own
+
+>> Yahoo too! Cause you know... Yahoo would.
 
 
 <title>ITSA WEBBBBSYTE</title>
