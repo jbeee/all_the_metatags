@@ -1,4 +1,4 @@
-all_the_metatags
+#all_the_metatags
 ================
 
 - Every Single meta tag for ifacegoogtwittbinghoo.com that I stumble across 
@@ -7,23 +7,23 @@ all_the_metatags
 
      
 
-#<!----- iOS META DATA ---->
+###<!----- iOS META DATA ---->
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black" />        
         <link rel="apple-touch-icon-precomposed" href=""/>
 	
 	
-#<!----- GOOGLE META DATA ---->	
-    		<meta property="og:locale" content="en_US" />
-    		<meta property="og:type" content="app" />   ////ADD ALL TYPES
-    		<meta property="og:title" content="TITLE" />
-    		<meta property="og:description" content="" />
-    		<meta property="og:url" content="" />
-    		<meta property="og:site_name" content="" />
-    		<meta property="og:image" content=""/>
+###<!----- GOOGLE META DATA ---->	
+    	<meta property="og:locale" content="en_US" />
+    	<meta property="og:type" content="app" />   ////ADD ALL TYPES
+    	<meta property="og:title" content="TITLE" />
+    	<meta property="og:description" content="" />
+    	<meta property="og:url" content="" />
+    	<meta property="og:site_name" content="" />
+    	<meta property="og:image" content=""/>
 
-#<!----- FACEBOOK ---->
+#<!----- FACEBOOK META DATA ---->
         <meta property="og:title" content="My Title (2012)">
         <meta property="og:type" content="company">
         <meta property="og:url" content="http://www.YourURL.com">
@@ -49,6 +49,7 @@ all_the_metatags
         <meta property="og:audio:artist" content="Artist">
         <meta property="og:audio:album" content="Album Name">
         <meta property="og:audio:type" content="application/mp3">
+        > <!----- facebook!?!? srsly? ---->
 
 #<!----- WINDOWS META DATA ---->
         <meta name="application-name" content=""/>
@@ -61,6 +62,7 @@ all_the_metatags
         <meta name="msapplication-square150x150logo" content=""/>
         <meta name="msapplication-wide310x150logo" content=""/>
         <meta name="msapplication-square310x310logo" content=""/>
+         > <!----- 5 pngs, 1 ico, tooltip? ---->
 
 #<!----- GENERAL META DATA ---->
         <meta charset="UTF-8" />
