@@ -37,14 +37,11 @@
         <meta property="og:audio:artist" content="Artist">
         <meta property="og:audio:album" content="Album Name">
         <meta property="og:audio:type" content="application/mp3">
-> <!----- facebook!?!? srsly? ---->
+<!----- facebook!?!? srsly? ---->
 
 ####<!----- GOOGLE META DATA ---->
-<!----- 
-- (the facebook basics) 
-- google uses facebooks open graph, but doesnt care what your favorite color is or what you had for breakfast last tuesday ...probably because they already know.
-It is google afterall.
----->
+<!----- (the facebook basics) google uses facebooks open graph, but doesnt care what your favorite color is or what you had for breakfast last tuesday ...probably because they already know.
+It is google afterall. ---->
 
     	<meta property="og:locale" content="en_US" />
     	<meta property="og:type" content="app" />   ////ADD ALL TYPES
